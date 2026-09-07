@@ -41,7 +41,7 @@ The project's goal wasn't just "make a shopping screen" — it was to fit a bran
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/1fi-marketplace-assignment.git
+git clone https://github.com/harshitgautam020703/1fi-marketplace-assignment.git
 cd 1fi-marketplace-assignment
 ```
 
