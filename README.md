@@ -124,22 +124,22 @@ Useful commands:
 **1. Marketplace listing — the Shop page's `1Fi Marketplace` segment**
 Product grid with search, category filters, and the floating 5-tab bottom nav. This is the entry point into the whole flow.
 
-![Marketplace product listing screen showing search bar, category chips, and a grid of products](assets/screenshots/marketplace-listing.png)
+![Marketplace product listing screen showing search bar, category chips, and a grid of products](assets/marketplace-listing.png)
 
 **2. Product details — variant and EMI plan selection**
 Selecting a color variant updates the highlighted option; each EMI tenure shows its rate, fee, and monthly installment so the user can compare before proceeding.
 
-![Product details screen showing variant selector and a list of EMI plan options with monthly installments](assets/screenshots/product-detail-emi-options.png)
+![Product details screen showing variant selector and a list of EMI plan options with monthly installments](assets/product-detail-emi-options.png)
 
 **3. Order review — the server-computed EMI quote**
 This is the number that actually gets charged — fetched from the backend's `/emi-quote` endpoint rather than trusted from the client-side estimate shown in step 2.
 
-![Order review screen showing order summary, EMI plan breakdown, and a confirm button](assets/screenshots/order-review.png)
+![Order review screen showing order summary, EMI plan breakdown, and a confirm button](assets/order-review.png)
 
 **4. Responsive web preview**
 The Expo web build rendered in a mobile viewport, used throughout development to verify layout at phone-sized dimensions.
 
-![Marketplace listing screen rendered in a responsive mobile-width browser viewport](assets/screenshots/responsive-web-preview.png)
+![Marketplace listing screen rendered in a responsive mobile-width browser viewport](assets/responsive-web-preview.png)
 
 ## Contributing
 
