@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: 1fi-marketplace-backend
+Version: 1.0.0
+Summary: Mock FastAPI backend serving product and EMI data for the 1Fi Marketplace assignment
+Requires-Python: >=3.9
+Requires-Dist: fastapi==0.115.0
+Requires-Dist: uvicorn[standard]==0.30.6
+Requires-Dist: pydantic==2.9.2
+Provides-Extra: dev
+Requires-Dist: pytest==8.3.3; extra == "dev"
+Requires-Dist: httpx==0.27.2; extra == "dev"

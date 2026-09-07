@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "1Fi Marketplace",
+    "slug": "1fi-marketplace-assignment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F8FA"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

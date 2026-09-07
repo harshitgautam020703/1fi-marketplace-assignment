@@ -1,0 +1,111 @@
+[
+  {
+    "id": "p001",
+    "name": "OnePlus Nord Buds 3 Pro",
+    "brand": "OnePlus",
+    "category": "Audio",
+    "description": "True wireless earbuds with 50dB ANC, 45-hour battery life, and IP55 water resistance.",
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800"
+    ],
+    "rating": 4.3,
+    "ratingCount": 2891,
+    "variants": [
+      { "id": "p001-v1", "label": "Midnight Ash", "price": 2799, "mrp": 3499, "stock": 18 },
+      { "id": "p001-v2", "label": "Cosmic Blue", "price": 2899, "mrp": 3599, "stock": 6 }
+    ],
+    "emiPlans": [
+      { "id": "emi-3m", "tenureMonths": 3, "interestRatePct": 0, "processingFee": 0 },
+      { "id": "emi-6m", "tenureMonths": 6, "interestRatePct": 8, "processingFee": 49 },
+      { "id": "emi-9m", "tenureMonths": 9, "interestRatePct": 12, "processingFee": 99 },
+      { "id": "emi-12m", "tenureMonths": 12, "interestRatePct": 14, "processingFee": 99 }
+    ]
+  },
+  {
+    "id": "p002",
+    "name": "boAt Xtend Smartwatch",
+    "brand": "boAt",
+    "category": "Wearables",
+    "description": "1.69\" HD display smartwatch with SpO2 tracking, 7-day battery life, and 100+ sports modes.",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800",
+      "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=800"
+    ],
+    "rating": 4.1,
+    "ratingCount": 15234,
+    "variants": [
+      { "id": "p002-v1", "label": "Active Black", "price": 1499, "mrp": 2490, "stock": 42 },
+      { "id": "p002-v2", "label": "Coral Pink", "price": 1499, "mrp": 2490, "stock": 0 }
+    ],
+    "emiPlans": [
+      { "id": "emi-3m", "tenureMonths": 3, "interestRatePct": 0, "processingFee": 0 },
+      { "id": "emi-6m", "tenureMonths": 6, "interestRatePct": 8, "processingFee": 49 }
+    ]
+  },
+  {
+    "id": "p003",
+    "name": "Redmi Pad SE",
+    "brand": "Redmi",
+    "category": "Tablets",
+    "description": "11-inch 90Hz display tablet with Snapdragon 680, 8000mAh battery, and quad speakers.",
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=800"
+    ],
+    "rating": 4.4,
+    "ratingCount": 8421,
+    "variants": [
+      { "id": "p003-v1", "label": "4GB+128GB - Graphite Gray", "price": 12999, "mrp": 15999, "stock": 11 },
+      { "id": "p003-v2", "label": "6GB+128GB - Lavender Purple", "price": 14999, "mrp": 17999, "stock": 4 }
+    ],
+    "emiPlans": [
+      { "id": "emi-3m", "tenureMonths": 3, "interestRatePct": 0, "processingFee": 0 },
+      { "id": "emi-6m", "tenureMonths": 6, "interestRatePct": 6, "processingFee": 99 },
+      { "id": "emi-9m", "tenureMonths": 9, "interestRatePct": 10, "processingFee": 149 },
+      { "id": "emi-12m", "tenureMonths": 12, "interestRatePct": 13, "processingFee": 149 },
+      { "id": "emi-18m", "tenureMonths": 18, "interestRatePct": 16, "processingFee": 199 }
+    ]
+  },
+  {
+    "id": "p004",
+    "name": "Mi Robot Vacuum-Mop Essential",
+    "brand": "Xiaomi",
+    "category": "Home",
+    "description": "2-in-1 robot vacuum and mop with 2200Pa suction, app control, and 150-minute runtime.",
+    "images": [
+      "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=800"
+    ],
+    "rating": 4.0,
+    "ratingCount": 3120,
+    "variants": [
+      { "id": "p004-v1", "label": "Standard", "price": 13999, "mrp": 16999, "stock": 9 }
+    ],
+    "emiPlans": [
+      { "id": "emi-6m", "tenureMonths": 6, "interestRatePct": 8, "processingFee": 99 },
+      { "id": "emi-12m", "tenureMonths": 12, "interestRatePct": 14, "processingFee": 149 }
+    ]
+  },
+  {
+    "id": "p005",
+    "name": "HP 15s Laptop (Ryzen 5)",
+    "brand": "HP",
+    "category": "Laptops",
+    "description": "15.6\" FHD laptop with Ryzen 5 7520U, 16GB RAM, 512GB SSD, and Windows 11.",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800"
+    ],
+    "rating": 4.2,
+    "ratingCount": 1876,
+    "variants": [
+      { "id": "p005-v1", "label": "16GB/512GB - Natural Silver", "price": 42990, "mrp": 52990, "stock": 5 }
+    ],
+    "emiPlans": [
+      { "id": "emi-6m", "tenureMonths": 6, "interestRatePct": 5, "processingFee": 199 },
+      { "id": "emi-12m", "tenureMonths": 12, "interestRatePct": 11, "processingFee": 299 },
+      { "id": "emi-18m", "tenureMonths": 18, "interestRatePct": 15, "processingFee": 299 },
+      { "id": "emi-24m", "tenureMonths": 24, "interestRatePct": 18, "processingFee": 399 }
+    ]
+  }
+]
